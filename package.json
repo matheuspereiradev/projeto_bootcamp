@@ -1,0 +1,27 @@
+{
+  "name": "projeto_bootcamp",
+  "version": "1.0.0",
+  "description": "projeto bootcamp",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheuspereiradev/projeto_bootcamp.git"
+  },
+  "keywords": [
+    "bootcamp",
+    "rocketseat",
+    "node"
+  ],
+  "author": "matheuslima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matheuspereiradev/projeto_bootcamp/issues"
+  },
+  "homepage": "https://github.com/matheuspereiradev/projeto_bootcamp#readme",
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  }
+}
